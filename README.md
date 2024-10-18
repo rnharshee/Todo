@@ -1,1 +1,1 @@
-This is an CRUD Todo application built using Spring Boot
+This is a CRUD Todo application built using Spring Boot
